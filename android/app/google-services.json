@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085658221844",
+    "project_id": "dynacloud-28494",
+    "storage_bucket": "dynacloud-28494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085658221844:android:6e8229cfaf223830f80601",
+        "android_client_info": {
+          "package_name": "com.dynacloud.dynacloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085658221844-no8oqmrslchlnr3tldt5346sjs5jopu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChz2O9hdyubd_DKKo3HfdQeioiP-MaHNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085658221844-no8oqmrslchlnr3tldt5346sjs5jopu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
